@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header, .footer {
+    width: 100%;
+}
+
+.header .navbar{
+    margin-right: 10px;
+}
+
+.container {
+    margin-top: 20px;
+}
